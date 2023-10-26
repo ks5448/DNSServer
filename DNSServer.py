@@ -78,7 +78,7 @@ dns_records = {
    
     # Add more records as needed (see assignment instructions!
 
-    'safebank.com': {
+    'safebank.com.': {
         dns.rdatatype.A: '192.168.1.102',
     },
     'google.com': {
